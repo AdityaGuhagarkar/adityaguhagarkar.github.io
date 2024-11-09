@@ -9,7 +9,6 @@ excerpt: 'Millimeter-wave (mmWave) communications offer abundant bandwidth for v
  transmission time while ensuring throughput requirements. Proximal policy optimization, deep Q-network, and
  constraint programming models are employed to solve the optimization problem. Extensive evaluations reveal that the
  proximal policy optimization model achieves close to 100% accuracy.'
-date: 2024-02-17
 venue: ' 27th International Symposium on Wireless Personal Multimedia Communications, 2024'
 paperurl: 'http://adityaguhagarkar.github.io/files/paper1.pdf'
 ---
