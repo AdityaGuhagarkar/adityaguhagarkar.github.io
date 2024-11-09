@@ -11,54 +11,72 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.Tech in Electrical Engineering**, Indian Institute of Technology Indore  
+  *CGPA*: 8.77 (Current)  
+  * 2021 - Present
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **University of British Columbia**  
+  *Visiting International Research Student*  
+  * May 2023 - Aug. 2023  
+  * Duties included: Developing a Channel Sounder and Doppler Shifter to study channel characteristics and correct frequency distortion in satellite communications.
+  * Supervisor: Prof. David Michelson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Intelligent Vehicle Design and Control Club, IIT Indore**  
+  *President*  
+  * Apr. 2023 - Apr. 2024  
+  * Led a team focused on projects related to vehicular design and control.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **IEEE Robotics and Automation Society (RAS) Student Chapter, IIT Indore**  
+  *Vice-Chair*  
+  * Nov. 2022 - Present  
+  * Organized workshops and initiatives focused on robotics and automation.
+
+Key Projects
+======
+* **Ground Penetrating Radar Application of SDRs**  
+  * May 2022 - Dec 2023  
+  * Developed a ground-penetrating radar using Ettus USRP B210 SDR and Texas Instruments TI AWR1642 to detect subsurface objects, achieving accurate distance measurement to metallic plates.
+
+* **ASER Estimation of HQAM Signals**  
+  * April 2024 - July 2024  
+  * Enhanced ASER estimation formulas for High-order HQAM signals, conducting simulations in MATLAB to analyze performance in AWGN and Rayleigh channels.
+
+* **Channel Sounder and Doppler Shifter using PLUTO SDR**  
+  * May 2023 - Aug 2023  
+  * Designed a Doppler Shifter to adjust for Doppler effects in satellite communication, reducing frequency distortion and improving communication reliability.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: C++, Python, Verilog
+* **Tools/Frameworks**: MATLAB, Simulink, GNU Radio, ROS, Proteus, Arduino
+* **Operating Systems**: Windows, Ubuntu
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Achievements
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* **MITACS Globalink Fellow** (2023)
+* **IEEE PES India Scholarship Award** (2022-23)
+* **Bronze Medal**, 11th Inter IIT Tech Meet 2023 (Jaguar Land Rover problem statement)
+* **Gold Medal**, IITI Summer of Code (Intelligent Vehicles Category, 2022)
+* **Multiple medals** in state and national chess championships
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Manager**, Tinkerers Lab, IIT Indore (Aug. 2023 - Apr. 2024)
+  * Responsible for lab setup, machine maintenance, and student enrollment.
+* **Chess Club Member**, IIT Indore (Dec. 2021 - Present)
+  * Competed in inter-collegiate and state-level chess tournaments.
+* **URSI EMTS 2023 Conference**  
+  * Organizing team member for the URSI EMTS 2023 conference held at the University of British Columbia.
+  
+Standardized Tests
+======
+* **JEE Advanced**: All India Rank 2906 (97.9 percentile) - 2021
+* **JEE Mains**: All India Rank 2321 (99.8 percentile) - 2021
