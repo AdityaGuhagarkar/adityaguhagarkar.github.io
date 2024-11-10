@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal website!"
+title: "Hi I'm Aditya!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Hello! 👋 My name is **Aditya Guhagarkar**, and I am a 4th-year Electrical Engineering student at **IIT Indore**. I have a deep passion for **wireless communications**, **vehicular technology**, and the exciting potential of **smart cities**! I am driven by a desire to innovate in these fields, aiming to contribute to the development of smarter, more connected urban environments.
+Hello! I am a 4th-year Electrical Engineering student at **IIT Indore**. I have a deep passion for **wireless communications**, **vehicular technology**, and the exciting potential of **smart cities**! I am driven by a desire to innovate in these fields, aiming to contribute to the development of smarter, more connected urban environments.
 
 ### 🎓 Academic Interests
 My academic journey has led me to specialize in cutting-edge areas like:
@@ -30,5 +30,5 @@ I believe in a well-rounded life! Alongside my academic pursuits and trekking ad
 
 ---
 
-Thank you for visiting my GitHub! Feel free to connect with me to discuss wireless communications, vehicular technology, smart cities, or even chess strategies and trekking routes. Looking forward to collaborating and connecting with like-minded individuals!
+Thank you for visiting my Website! Feel free to connect with me to discuss wireless communications, vehicular technology, smart cities, or even chess strategies and trekking routes. Looking forward to collaborating and connecting with like-minded individuals!
 
