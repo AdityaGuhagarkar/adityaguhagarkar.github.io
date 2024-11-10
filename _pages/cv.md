@@ -23,16 +23,6 @@ Experience
   * Duties included: Developing a Channel Sounder and Doppler Shifter to study channel characteristics and correct frequency distortion in satellite communications.
   * Supervisor: Prof. David Michelson
 
-* **Intelligent Vehicle Design and Control Club, IIT Indore**  
-  *President*  
-  * Apr. 2023 - Apr. 2024  
-  * Led a team focused on projects related to vehicular design and control.
-
-* **IEEE Robotics and Automation Society (RAS) Student Chapter, IIT Indore**  
-  *Vice-Chair*  
-  * Nov. 2022 - Present  
-  * Organized workshops and initiatives focused on robotics and automation.
-
 Key Projects
 ======
 * **Ground Penetrating Radar Application of SDRs**  
@@ -69,6 +59,11 @@ Achievements
 
 Service and leadership
 ======
+* **President** Intelligent Vehicle Design and Control Club, IIT Indore (Apr. 2023 - Apr. 2024)  
+  * Led a team of 20 people focused on projects related to vehicular design and control.
+  * Worked on development of a rover for the Intelligent Ground Vehicle Competition
+* **Vice-Chair**  IEEE Robotics and Automation Society (RAS) Student Chapter, IIT Indore (Nov. 2022 - Present)  
+  * Organized workshops and initiatives focused on robotics and automation.    
 * **Manager**, Tinkerers Lab, IIT Indore (Aug. 2023 - Apr. 2024)
   * Responsible for lab setup, machine maintenance, and student enrollment.
 * **Chess Club Member**, IIT Indore (Dec. 2021 - Present)
