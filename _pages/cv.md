@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **B.Tech in Electrical Engineering**, Indian Institute of Technology Indore  
-  *CGPA*: 8.77 (Current)  
+  *CGPA*: 8.95 (Current)  
   * 2021 - Present
 
 Experience
