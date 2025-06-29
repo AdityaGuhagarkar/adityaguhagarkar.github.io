@@ -11,6 +11,7 @@ excerpt: 'Millimeter-wave (mmWave) communications offer abundant bandwidth for v
  proximal policy optimization model achieves close to 100% accuracy.'
 date: 2024-11-18
 venue: ' 27th International Symposium on Wireless Personal Multimedia Communications (WPMC)'
+link: "https://ieeexplore.ieee.org/document/10863142"
 paperurl: 'http://adityaguhagarkar.github.io/files/Reinforcement_Learning-Based_Optimization_of_Relay_Selection_and_Transmission_Scheduling_for_UAV-Aided_mmWave_Vehicular_Networks.pdf'
 ---
 
