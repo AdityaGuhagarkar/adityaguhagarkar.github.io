@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aditya Guhagarkar / Website"
+title                    : "Aditya's Website | Aditya Guhagarkar"
 title_separator          : "-"
 name                     : &name "Aditya Guhagarkar"
 description              : &description "Take the leap!"
@@ -21,23 +21,23 @@ repository               : "AdityaGuhagarkar/adityaguhagarkar.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.jpg"
+  avatar           : "good.jpg"
   name             : "Aditya Guhagarkar"
   pronouns         : # example: "she/her"  
   bio              : "Tech Enthusiast"
   location         : "India"
-  employer         : "Indian Institute of Technology Indore"
+  employer         : "University of Michigan"
   uri              : # URL
   email            : "adityaguhagarkar@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=Gzvn_wgAAAAJ&hl=en
   impactstory      : # URL
-  orcid            : 
+  orcid            : https://orcid.org/0000-0001-8524-0342
   semantic         : # URL
   pubmed           : 
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Aditya-Guhagarkar
   scopus           : # URL
 
   # Repositories and software development
