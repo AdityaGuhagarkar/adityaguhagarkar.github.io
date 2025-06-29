@@ -1,5 +1,5 @@
 ---
-title: "Comparative Analysis of Scheduling Strategies for RIS-Em07powered Wireless Networks with Non-Linear Energy Harvesting"
+title: "Comparative Analysis of Scheduling Strategies for RIS-Empowered Wireless Networks with Non-Linear Energy Harvesting"
 collection: publications
 category: conferences
 excerpt: >
@@ -10,5 +10,6 @@ excerpt: >
   RIS-assisted networks. The work highlights trade-offs between throughput, computational time, and adaptability.
 date: 2025-07-11
 venue: 'International Conference on Computing, Communication and Networking Technologies (ICCCNT)'
+link: "https://www.techrxiv.org/users/912373/articles/1285943-comparative-analysis-of-scheduling-strategies-for-ris-empowered-wireless-networks-with-non-linear-energy-harvesting"
 paperurl: 'http://adityaguhagarkar.github.io/files/Aditya_CONECCT.pdf'
 ---
