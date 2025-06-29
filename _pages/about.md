@@ -9,26 +9,27 @@ redirect_from:
 
 # About Me
 
-Hello! I am a 4th-year Electrical Engineering student at **IIT Indore**. I have a deep passion for **wireless communications**, **vehicular technology**, and the exciting potential of **smart cities**! I am driven by a desire to innovate in these fields, aiming to contribute to the development of smarter, more connected urban environments.
+I am a Master’s student in **Electrical and Computer Engineering (ECE)** at the **University of Michigan**, with a strong passion for **wireless communications**, **5G/6G physical layer (L1)**, **AI-native Radio Access Networks (AI-RAN)**, and **vehicular networks**. I’m driven by the goal of designing communication systems that are fast, reliable, and intelligent—paving the way for the future of **smart cities** and connected mobility.
 
-### 🎓 Academic Interests
-My academic journey has led me to specialize in cutting-edge areas like:
-- **Wireless Communications**: Exploring technologies to enable fast, reliable connections across devices and vehicles.
-- **Vehicular Technology**: Developing systems that enhance vehicular networks and support safe, efficient transportation.
-- **Smart Cities**: Contributing to infrastructure that seamlessly connects devices, vehicles, and people, paving the way for sustainable, intelligent urban living.
+## 🎓 Academic & Research Interests
+My academic journey lies at the intersection of signal processing, optimization, and machine learning for next-generation wireless systems. My key interests include:
+- **5G/6G Physical Layer (L1)** – Developing PHY layer technologies such as link adaptation, beamforming, MIMO, and signal processing for high-capacity, low-latency networks.
+- **AI-Native RAN (AI-RAN)** – Applying machine learning to optimize and automate radio access networks for enhanced performance and adaptability.
+- **Vehicular Networks** – Enabling connected and autonomous mobility with ultra-reliable low-latency communication (URLLC) and robust network design.
+- **Smart Cities** – Building intelligent infrastructure that integrates vehicles, devices, and people for sustainable, connected urban ecosystems.
 
-Beyond my studies, I am actively involved in research and hands-on projects, often sharing my insights at conferences and working on real-world applications.
+I completed my undergraduate degree in **Electrical Engineering from IIT Indore**, where I was actively involved in research, published at international conferences, and collaborated with leading academic groups.
 
-### ♟️ A Chess Enthusiast
-Chess has been a significant part of my life since childhood, and I'm honored to play at the international level with a **FIDE rating of 2046**. Chess has instilled in me a strategic mindset and a love for problem-solving that complements my academic and professional ambitions.
+## ♟️ Chess – A Strategic Foundation
+I’ve been a competitive chess player since childhood, with a **FIDE rating of 2046** at the international level. Chess has deeply influenced my problem-solving approach—teaching me to think strategically, adapt quickly, and approach challenges with foresight and precision.
 
-### 🏞️ Trekking the Great Outdoors
-When I’m not immersed in academics or strategizing on the chessboard, you’ll likely find me **trekking in the mountains**. As an avid trekker, I’m always ready for the next adventure in the Himalayas or other high-altitude destinations. The tranquility and challenge of the outdoors fuel my drive and remind me of the importance of balance.
+## 🏞️ Trekking – A Pursuit of Resilience
+When not solving engineering problems, you’ll often find me in the mountains. I’ve completed multiple high-altitude treks in the **Himalayas**, where the mental endurance and adaptability required reflect the same mindset I bring to research and problem-solving.
 
-### 🎸 Sports and Music Lover
-I believe in a well-rounded life! Alongside my academic pursuits and trekking adventures, I enjoy **playing sports** and **jamming to soft rock music**. Whether it’s on the field or with my favorite playlists, these activities are essential to keeping me energized and grounded.
+## ⚽ Sports & Balance
+I strongly believe in maintaining balance beyond academics. Whether on the field or the trail, sports and physical activity have been a constant source of discipline, focus, and energy throughout my journey.
 
 ---
 
-Thank you for visiting my Website! Feel free to connect with me to discuss wireless communications, vehicular technology, smart cities, or even chess strategies and trekking routes. Looking forward to collaborating and connecting with like-minded individuals!
+Thank you for visiting my website! I’m always open to conversations about **wireless systems, PHY design, AI-RAN, vehicular networks**, or even **chess strategies and trekking adventures**. Looking forward to connecting and collaborating!
 
