@@ -11,67 +11,93 @@ redirect_from:
 
 Education
 ======
-* **B.Tech in Electrical Engineering**, Indian Institute of Technology Indore  
-  *CGPA*: 8.95 (Current)  
-  * 2021 - Present
+* **Master of Science in Electrical and Computer Engineering**, University of Michigan, Ann Arbor  
+  *Aug. 2025 – May 2027*  
+  - Focus: Wireless Communications, Signal Processing, 5G PHY, AI-Native RAN  
+  - Coursework: Probability and Random Processes, VLSI for ML and Communications
+
+* **Bachelor of Technology in Electrical Engineering**, Indian Institute of Technology (IIT) Indore  
+  *Nov. 2021 – May 2025*  
+  - GPA: **9.05/10**  
+  - Relevant Coursework: Signals and Systems, Communication Systems, DSP, Digital Communications, Information Coding Theory, IoT Communication Systems, Vehicular Communications
 
 Experience
 ======
-* **University of British Columbia**  
-  *Visiting International Research Student*  
-  * May 2023 - Aug. 2023  
-  * Duties included: Developing a Channel Sounder and Doppler Shifter to study channel characteristics and correct frequency distortion in satellite communications.
-  * Supervisor: Prof. David Michelson
+* **Research Intern**, 6G Flagship, University of Oulu (Remote)  
+  *Apr. 2025 – Aug. 2025*  
+  - Developed a GNN-based framework for power allocation in multi-cell MIMO systems.  
+  - Implemented Graph Convolutional Networks (GCNs) and benchmarked against WMMSE using supervised and unsupervised learning.  
+  - Evaluated based on sum-rate and data rate distributions.
+
+* **Research Intern**, University of British Columbia  
+  *May 2023 – Jul. 2023*  
+  - Built a channel sounder and Doppler shifter using ADALM-PLUTO SDRs for satellite and wireless channels.  
+  - Implemented LTE-based signal processing and Doppler correction in MATLAB, achieving near 100% BER reduction under testing.  
+  - Supervisor: Prof. David Michelson
 
 Key Projects
 ======
-* **Ground Penetrating Radar Application of SDRs**  
-  * May 2022 - Dec 2023  
-  * Developed a ground-penetrating radar using Ettus USRP B210 SDR and Texas Instruments TI AWR1642 to detect subsurface objects, achieving accurate distance measurement to metallic plates.
+* **Reinforcement Learning-Based Scheduling in mmWave Networks**  
+  *Apr. 2024 – Mar. 2025*  
+  - Designed DQN and PPO-based schedulers for RIS-aided SWIPT networks and UAV-aided mmWave vehicular networks.  
+  - Achieved up to 90% of CP throughput with 1000× lower latency for RIS systems and 22% higher throughput with 18% lower transmission time for vehicular networks.
 
-* **ASER Estimation of HQAM Signals**  
-  * April 2024 - July 2024  
-  * Enhanced ASER estimation formulas for High-order HQAM signals, conducting simulations in MATLAB to analyze performance in AWGN and Rayleigh channels.
+* **ASER Estimation for HQAM Signals**  
+  *Apr. 2024 – Jul. 2024*  
+  - Derived and validated ASER formulas for high-order HQAM signals.  
+  - Verified accuracy through MATLAB simulations over AWGN and Rayleigh fading channels.
 
-* **Channel Sounder and Doppler Shifter using PLUTO SDR**  
-  * May 2023 - Aug 2023  
-  * Designed a Doppler Shifter to adjust for Doppler effects in satellite communication, reducing frequency distortion and improving communication reliability.
+* **Ground Penetrating Radar using SDRs**  
+  *May 2022 – Dec. 2023*  
+  - Built a radar system using USRP B210, ADALM-PLUTO, and TI AWR1642.  
+  - Implemented MFCW radar algorithms for material penetration analysis and subsurface detection.
 
 Skills
 ======
-* **Programming Languages**: C++, Python, Verilog
-* **Tools/Frameworks**: MATLAB, Simulink, GNU Radio, ROS, Proteus, Arduino
-* **Operating Systems**: Windows, Ubuntu
+* **Programming**: Python, C, C++, Verilog, MATLAB, HTML/CSS  
+* **Wireless & Signal Processing Tools**: MATLAB, Simulink, GNU Radio, Simscape, ROS  
+* **Hardware/Tools**: SDRs (ADALM-PLUTO, USRP B210), TI AWR1642, Arduino, Proteus, PLECS  
+* **Certifications**:  
+  - *5G Introductory-Level* – Qualcomm  
+  - *Mastering 5G PHY* – Udemy (Covers 3GPP L1, OFDM, MIMO, SSB, PDSCH, PUSCH, CSI-RS, DMRS, HARQ, etc.)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
 Achievements
 ======
-* **MITACS Globalink Fellow** (2023)
-* **IEEE PES India Scholarship Award** (2022-23)
-* **Bronze Medal**, 11th Inter IIT Tech Meet 2023 (Jaguar Land Rover problem statement)
-* **Gold Medal**, IITI Summer of Code (Intelligent Vehicles Category, 2022)
-* **Multiple medals** in state and national chess championships
+* **MITACS Globalink Research Fellow** (2023)  
+  - Fully funded research internship at University of British Columbia.
 
-Service and leadership
+* **IEEE PES India Scholarship** (2022–24)  
+  - One of 3 recipients nationally for academic excellence.
+
+* **Bronze Medal**, Inter-IIT Tech Meet 2023 (Jaguar Land Rover Problem)  
+* **Gold Medal**, IITI Summer of Code (Intelligent Vehicles Category, 2022)  
+* **International Chess Player**, FIDE rating **2046** with multiple state and national medals
+
+Service and Leadership
 ======
-* **President** Intelligent Vehicle Design and Control Club, IIT Indore (Apr. 2023 - Apr. 2024)  
-  * Led a team of 20 people focused on projects related to vehicular design and control.
-  * Worked on development of a rover for the Intelligent Ground Vehicle Competition
-* **Vice-Chair**  IEEE Robotics and Automation Society (RAS) Student Chapter, IIT Indore (Nov. 2022 - Present)  
-  * Organized workshops and initiatives focused on robotics and automation.    
-* **Manager**, Tinkerers Lab, IIT Indore (Aug. 2023 - Apr. 2024)
-  * Responsible for lab setup, machine maintenance, and student enrollment.
-* **Chess Club Member**, IIT Indore (Dec. 2021 - Present)
-  * Competed in inter-collegiate and state-level chess tournaments.
-* **URSI EMTS 2023 Conference**  
-  * Organizing team member for the URSI EMTS 2023 conference held at the University of British Columbia.
-  
+* **President**, Intelligent Vehicle Design and Control Club, IIT Indore (Apr. 2023 – Apr. 2024)  
+  - Led a 20-person team developing autonomous ground vehicles for competitions like IGVC.
+
+* **Vice-Chair**, IEEE Robotics and Automation Society (RAS) Student Chapter, IIT Indore (Nov. 2022 – Present)  
+  - Organized workshops and technical events on robotics and automation.
+
+* **Manager**, Tinkerers Lab, IIT Indore (Aug. 2023 – Apr. 2024)  
+  - Managed lab setup, equipment maintenance, and student training.
+
+* **Organizing Committee Member**, URSI EMTS 2023 (University of British Columbia)  
+  - Supported logistics and operations for the international conference.
+
+* **Chess Club Member**, IIT Indore (Dec. 2021 – May 2025)  
+  - Competed in inter-collegiate and state-level tournaments.
+
 Standardized Tests
 ======
-* **JEE Advanced**: All India Rank 2906 (97.9 percentile) - 2021
-* **JEE Mains**: All India Rank 2321 (99.8 percentile) - 2021
+* **GRE**: 325  
+* **JEE Advanced**: AIR 2906 (97.9 percentile) – 2021  
+* **JEE Mains**: AIR 2321 (99.8 percentile) – 2021  
