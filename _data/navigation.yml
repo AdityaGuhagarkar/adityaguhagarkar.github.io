@@ -9,7 +9,8 @@ main:
     url: /publications/
     
   - title: "Projects"
-    url: /portfolio/
+    url: /files/Aditya_s_Internship_CV/
+   # url: /portfolio/
     
   - title: "CV"
     url: /cv/
