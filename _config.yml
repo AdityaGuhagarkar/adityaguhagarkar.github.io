@@ -21,7 +21,7 @@ repository               : "AdityaGuhagarkar/adityaguhagarkar.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "good.jpg"
+  avatar           : "Good.jpg"
   name             : "Aditya Guhagarkar"
   pronouns         : # example: "she/her"  
   bio              : "Tech Enthusiast"
