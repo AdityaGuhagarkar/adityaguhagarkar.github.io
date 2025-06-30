@@ -1,12 +1,7 @@
 ---
-title: "Channel Sounder and Doppler Shifter using PLUTO SDR"
-excerpt: "Developed tools for analyzing wireless channels and Doppler effects<br/><img src='/images/channel-sounder.png'>"
+title: "<a href='https://github.com/yourusername/channel-sounder-doppler' target='_blank'><i class='fab fa-github'></i> Channel Sounder and Doppler Shifter using PLUTO SDR</a>"
+excerpt: "Developed tools for analyzing wireless channels and Doppler effects.<br/><img src='/images/channel-sounder.png'>"
 collection: portfolio
+date: 2023-08-01
+venue: "University of British Columbia"
 ---
-
-**Supervisor**: Prof. David Michelson, University of British Columbia  
-**Duration**: May 2023 - Aug 2023
-
-Built a Channel Sounder and Doppler Shifter using ADALM PLUTO SDRs, with applications in satellite communication:
-- Designed a Doppler Shifter to generate frequency shifts and correct Doppler distortions.
-- Conducted wireless channel analysis with LTE modulation in MATLAB, reducing bit error rates.
