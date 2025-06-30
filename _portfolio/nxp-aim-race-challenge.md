@@ -1,7 +1,7 @@
 ---
-title: "<a href='https://github.com/yourusername/nxp-aim-race' target='_blank'><i class='fab fa-github'></i> NXP AIM Race Challenge</a>"
-excerpt: "Developed a race car model with obstacle detection and path planning.<br/><img src='/images/nxp-race.png'>"
+title: "<a href='https://github.com/AdityaGuhagarkar/Electronic-Voting-Machine' target='_blank'><i class='fab fa-github'></i> NXP AIM Race Challenge</a>"
+excerpt: "Designed an electronic voting machine using Proteus software that utilizes voter verification. This project aimed to address the issue of voter fraud and ensure that only eligible voters are able to cast their ballots.<br/><img src='/images/vote.png'>"
 collection: portfolio
-date: 2022-09-01
-venue: "NXP Semiconductors"
+date: 2023-02-01
+venue: "Fluxus IIT Indore"
 ---
