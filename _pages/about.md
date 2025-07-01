@@ -41,6 +41,15 @@ Before Michigan, I completed my undergraduate studies at the **Indian Institute 
 ## Research Experience
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/oulu.jpeg" style="width: 60px; margin-right: 15px;">
+  <div>
+    <strong>6G Flagship | University of Oulu, Finland</strong><br>
+    <em>Research Intern – Summer 2025</em><br>
+    Developed a Graph Neural Network-based framework for power allocation in multi-cell MIMO systems for 6G networks. Implemented a Graph Convolutional Network (GCN) model and benchmarked its performance against the WMMSE algorithm using both supervised and unsupervised learning approaches. Evaluated models based on output data rate distributions.
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/ubcvan.jpeg" style="width: 60px; margin-right: 15px;">
   <div>
     <strong>University of British Columbia (UBC)</strong><br>
@@ -49,14 +58,7 @@ Before Michigan, I completed my undergraduate studies at the **Indian Institute 
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/oulu.jpeg" style="width: 60px; margin-right: 15px;">
-  <div>
-    <strong>6G Flagship | University of Oulu, Finland</strong><br>
-    <em>Research Intern – Summer 2025</em><br>
-    Developed a Graph Neural Network-based framework for power allocation in multi-cell MIMO systems for 6G networks. Implemented a Graph Convolutional Network (GCN) model and benchmarked its performance against the WMMSE algorithm using both supervised and unsupervised learning approaches. Evaluated models based on output data rate distributions.
-  </div>
-</div>
+
 
 
 ---
