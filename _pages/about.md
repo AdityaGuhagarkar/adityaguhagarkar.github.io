@@ -67,7 +67,6 @@ Before Michigan, I completed my undergraduate studies at the **Indian Institute 
 
 - ♟️ **Chess:** 2× U-14 SGFI National Champion, FIDE Rating 2046. You can follow me on <a href="https://www.chess.com/member/neuergiveup" target="_blank">Chess.com</a>. 
 - 🏞️ **Trekking:** Completed 5+ high-altitude treks in the Himalayas (3500m+).
-- ⚽ **Sports:** Football and endurance sports for focus and fitness.
 
 ---
 
