@@ -17,50 +17,48 @@ Before Michigan, I completed my undergraduate studies at the **Indian Institute 
 
 ## Education
 
-<table>
-  <tr>
-    <td width="100"><img src="/images/umich.jpeg" width="80"></td>
-    <td>
-      <b>University of Michigan</b><br>
-      Aug 2025 – May 2027<br>
-      <b>CGPA:</b> 4.0 / 4.0<br>
-      M.S. in Electrical and Computer Engineering
-    </td>
-  </tr>
-  <tr>
-    <td><img src="/images/iitindore.jpeg" width="80"></td>
-    <td>
-      <b>Indian Institute of Technology (IIT) Indore</b><br>
-      Nov. 2021 – May 2025<br>
-      <b>CGPA:</b> 9.05 / 10.00<br>
-      B.Tech. in Electrical Engineering
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/umich.jpeg" style="width: 60px; margin-right: 15px;">
+  <div>
+    <strong>University of Michigan</strong><br>
+    <em>Aug 2025 – May 2027</em><br>
+    <b>CGPA:</b> 4.0 / 4.0<br>
+    M.S. in Electrical and Computer Engineering
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/iitindore.jpeg" style="width: 60px; margin-right: 15px;">
+  <div>
+    <strong>Indian Institute of Technology (IIT) Indore</strong><br>
+    <em>Nov 2021 – May 2025</em><br>
+    <b>CGPA:</b> 9.05 / 10.00<br>
+    B.Tech. in Electrical Engineering
+  </div>
+</div>
 
 ---
 
 ## Research Experience
 
-<table>
-  <tr>
-    <td width="100"><img src="/images/ubcvan.jpeg" width="80"></td>
-    <td>
-      <b>University of British Columbia (UBC)</b><br>
-      Research Intern – Summer 2023<br>
-      Designed a channel sounder and Doppler shifter using ADALM-PLUTO SDRs to measure channel impulse response, path loss, and Doppler shifts, with applications in satellite and wireless communications. Executed LTE-based signal processing and real-time Doppler correction in MATLAB, achieving near 100% BER reduction under test conditions through dynamic feedback-based distortion mitigation.
-    </td>
-  </tr>
-  <tr>
-    <td><img src="/images/oulu.jpeg" width="80"></td>
-    <td>
-      <b>6G Flagship | University of Oulu, Finland</b><br>
-      Research Intern – Summer 2025<br>
-      Developed a Graph Neural Network-based framework for power allocation in multi-cell MIMO systems for 6G networks. Implemented a Graph Convolutional Network model and benchmarked its performance against the WMMSE algorithm using both supervised and unsupervised learning approaches. Evaluated results based on output data rate distributions.
-    </td>
-  </tr>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/ubcvan.jpeg" style="width: 60px; margin-right: 15px;">
+  <div>
+    <strong>University of British Columbia (UBC)</strong><br>
+    <em>Research Intern – Summer 2023</em><br>
+    Designed a channel sounder and Doppler shifter using ADALM-PLUTO SDRs to measure channel impulse response, path loss, and Doppler shifts for satellite and wireless communication. Executed LTE-based signal processing and real-time Doppler correction in MATLAB, achieving near 100% BER reduction through dynamic feedback-based distortion mitigation.
+  </div>
+</div>
 
-</table>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/oulu.jpeg" style="width: 60px; margin-right: 15px;">
+  <div>
+    <strong>6G Flagship | University of Oulu, Finland</strong><br>
+    <em>Research Intern – Summer 2025</em><br>
+    Developed a Graph Neural Network-based framework for power allocation in multi-cell MIMO systems for 6G networks. Implemented a Graph Convolutional Network (GCN) model and benchmarked its performance against the WMMSE algorithm using both supervised and unsupervised learning approaches. Evaluated models based on output data rate distributions.
+  </div>
+</div>
+
 
 ---
 
