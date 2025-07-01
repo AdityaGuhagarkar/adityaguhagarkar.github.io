@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aditya's Website"
+title: "Aditya Guhagarkar"
 author_profile: true
 redirect_from: 
   - /about/
