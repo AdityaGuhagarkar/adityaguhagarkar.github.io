@@ -13,6 +13,7 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /cv-json/
-   # url: /cv/
+    url: /files/Aditya_CV.pdf
+    new_tab: true
+
 
