@@ -9,27 +9,67 @@ redirect_from:
 
 # About Me
 
-I am a Master’s student in **Electrical and Computer Engineering (ECE)** at the **University of Michigan**, with a strong passion for **wireless communications**, **5G/6G physical layer (L1)**, **AI-native Radio Access Networks (AI-RAN)**, and **vehicular networks**. I’m driven by the goal of designing communication systems that are fast, reliable, and intelligent—paving the way for the future of **smart cities** and connected mobility.
+I am a Master’s student at the **University of Michigan**, Department of **Electrical and Computer Engineering (ECE)**, specializing in **wireless communications**, **5G/6G physical layer**, **AI-native RAN**, and **vehicular networks**. I aspire to develop intelligent and reliable communication systems for **smart cities** and **connected mobility**.
 
-## 🎓 Academic & Research Interests
-My academic journey lies at the intersection of signal processing, optimization, and machine learning for next-generation wireless systems. My key interests include:
-- **5G/6G Physical Layer (L1)** – Developing PHY layer technologies such as link adaptation, beamforming, MIMO, and signal processing for high-capacity, low-latency networks.
-- **AI-Native RAN (AI-RAN)** – Applying machine learning to optimize and automate radio access networks for enhanced performance and adaptability.
-- **Vehicular Networks** – Enabling connected and autonomous mobility with ultra-reliable low-latency communication (URLLC) and robust network design.
-- **Smart Cities** – Building intelligent infrastructure that integrates vehicles, devices, and people for sustainable, connected urban ecosystems.
-
-I completed my undergraduate degree in **Electrical Engineering from IIT Indore**, where I was actively involved in research, published at international conferences, and collaborated with leading academic groups.
-
-## ♟️ Chess – A Strategic Foundation
-I’ve been a competitive chess player since childhood, with a **FIDE rating of 2046** at the international level. Chess has deeply influenced my problem-solving approach—teaching me to think strategically, adapt quickly, and approach challenges with foresight and precision.
-
-## 🏞️ Trekking – A Pursuit of Resilience
-When not solving engineering problems, you’ll often find me in the mountains. I’ve completed multiple high-altitude treks in the **Himalayas**, where the mental endurance and adaptability required reflect the same mindset I bring to research and problem-solving.
-
-## ⚽ Sports & Balance
-I strongly believe in maintaining balance beyond academics. Whether on the field or the trail, sports and physical activity have been a constant source of discipline, focus, and energy throughout my journey.
+Before Michigan, I completed my undergraduate studies at the **Indian Institute of Technology Indore**, majoring in **Electrical Engineering**, where I engaged in research on wireless systems and published at international conferences.
 
 ---
 
-Thank you for visiting my website! I’m always open to conversations about **wireless systems, PHY design, AI-RAN, vehicular networks**, or even **chess strategies and trekking adventures**. Looking forward to connecting and collaborating!
+## Education
 
+<table>
+  <tr>
+    <td width="100"><img src="/images/umich.jpeg" width="80"></td>
+    <td>
+      <b>University of Michigan</b><br>
+      Aug 2025 – May 2027<br>
+      <b>CGPA:</b> 4.0 / 4.0<br>
+      M.S. in Electrical and Computer Engineering
+    </td>
+  </tr>
+  <tr>
+    <td><img src="/images/iitindore.jpeg" width="80"></td>
+    <td>
+      <b>Indian Institute of Technology (IIT) Indore</b><br>
+      Nov. 2021 – May 2025<br>
+      <b>CGPA:</b> 9.05 / 10.00<br>
+      B.Tech. in Electrical Engineering
+    </td>
+  </tr>
+</table>
+
+---
+
+## Research Experience
+
+<table>
+  <tr>
+    <td width="100"><img src="/images/ubcvan.jpeg" width="80"></td>
+    <td>
+      <b>University of British Columbia (UBC)</b><br>
+      Research Intern – Summer 2023<br>
+      Designed a channel sounder and Doppler shifter using ADALM-PLUTO SDRs to measure channel impulse response, path loss, and Doppler shifts, with applications in satellite and wireless communications. Executed LTE-based signal processing and real-time Doppler correction in MATLAB, achieving near 100% BER reduction under test conditions through dynamic feedback-based distortion mitigation.
+    </td>
+  </tr>
+  <tr>
+    <td><img src="/images/oulu.jpeg" width="80"></td>
+    <td>
+      <b>6G Flagship | University of Oulu, Finland</b><br>
+      Research Intern – Summer 2025<br>
+      Developed a Graph Neural Network-based framework for power allocation in multi-cell MIMO systems for 6G networks. Implemented a Graph Convolutional Network model and benchmarked its performance against the WMMSE algorithm using both supervised and unsupervised learning approaches. Evaluated results based on output data rate distributions.
+    </td>
+  </tr>
+
+</table>
+
+---
+
+## Other Interests
+
+- ♟️ **Chess:** 2x U-14 SGFI National Champion, FIDE Rating 2046.
+- 🏞️ **Trekking:** Completed 5+ high-altitude treks in the Himalayas (3500m+).
+- ⚽ **Sports:** Football and endurance sports for focus and fitness.
+
+---
+
+Thank you for visiting my website! I’m open to discussions on **wireless systems, PHY design, AI-RAN, RIS**, or even **chess and trekking adventures.**
