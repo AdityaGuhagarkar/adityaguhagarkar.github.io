@@ -12,9 +12,10 @@ redirect_from:
 Education
 ======
 * **Master of Science in Electrical and Computer Engineering**, University of Michigan, Ann Arbor  
-  *Aug. 2025 – May 2027*  
+  *Aug. 2025 – May 2027*
+  - GPA: **4.09/4.00**  
   - Focus: Wireless Communications, Signal Processing, 5G PHY, AI-Native RAN  
-  - Coursework: Probability and Random Processes, VLSI for ML and Communications
+  - Coursework: Digital Communication and Codes, VLSI for ML and Communications, AI-enabled Mixed-Reality
 
 * **Bachelor of Technology in Electrical Engineering**, Indian Institute of Technology (IIT) Indore  
   *Nov. 2021 – May 2025*  
@@ -23,11 +24,17 @@ Education
 
 Experience
 ======
+* **Research Intern**, University of Michigan  
+  *Aug. 2025 – Present*  
+  -  Built a streaming RL framework in Jelly Bean World to evaluate continuous decision-making, demonstrating improved stability and performance over multiple DQN variants.
+  -  Implemented a contrastive RL approach that augments RRT-based planning, enabling robust trajectory generation for high-DOF robots.
+  -  Supervisor: Prof. Lei Ying
+    
 * **Research Intern**, 6G Flagship, University of Oulu (Remote)  
-  *Apr. 2025 – Aug. 2025*  
-  - Developed a GNN-based framework for power allocation in multi-cell MIMO systems.  
-  - Implemented Graph Convolutional Networks (GCNs) and benchmarked against WMMSE using supervised and unsupervised learning.  
-  - Evaluated based on sum-rate and data rate distributions.
+  *Apr. 2025 – Present*  
+  -  Designed a Graph Attention Network (GAT) for downlink power allocation in multi-cell Massive MIMO systems under spatially correlated Rician fading, targeting maximization of sum-rate while mitigating intra-cell interference.
+  -  Benchmarked the model against the WMMSE baseline across supervised, unsupervised, and hybrid training paradigms.
+  -  Supervisor: Dr. Thushan Sivalingam & Prof. Nandana Rajatheva
 
 * **Research Intern**, University of British Columbia  
   *May 2023 – Jul. 2023*  
