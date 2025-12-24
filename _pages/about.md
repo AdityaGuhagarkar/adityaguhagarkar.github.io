@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Master’s student at the **University of Michigan**, Department of **Electrical and Computer Engineering (ECE)**, specializing in **wireless communications**, **5G/6G physical layer**, **AI-native RAN**, and **vehicular networks**. I aspire to develop intelligent and reliable communication systems for **smart cities** and **connected mobility**.
 
-Before Michigan, I completed my undergraduate studies at the **Indian Institute of Technology Indore**, majoring in **Electrical Engineering**, where I engaged in research on wireless systems and published at international conferences.
+Before Michigan, I completed my undergraduate studies at the **Indian Institute of Technology Indore**, majoring in **Electrical Engineering**, where I engaged in research on wireless systems and published at international conferences. I was awarded the **Institute Gold Medal for Best All-Rounder** for my work during my bachelor's.
 
 ---
 
@@ -22,6 +22,7 @@ Before Michigan, I completed my undergraduate studies at the **Indian Institute 
   <div>
     <strong>University of Michigan</strong><br>
     <em>Aug 2025 – May 2027</em><br>
+    <b>CGPA:</b> 4.09 / 4.00<br>
     M.S. in Electrical and Computer Engineering
   </div>
 </div>
@@ -41,11 +42,20 @@ Before Michigan, I completed my undergraduate studies at the **Indian Institute 
 ## Research Experience
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/umich.jpeg" style="width: 60px; margin-right: 15px;">
+  <div>
+    <strong>University of Michigan</strong><br>
+    <em>Research Assistant</em><br>
+    Built a streaming RL framework in Jelly Bean World to evaluate continuous decision-making, demonstrating improved stability and performance over multiple DQN variants. Implemented a contrastive RL approach that augments RRT-based planning, enabling robust trajectory generation for high-DOF robots.
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/oulu.jpeg" style="width: 60px; margin-right: 15px;">
   <div>
     <strong>6G Flagship | University of Oulu, Finland</strong><br>
-    <em>Research Intern – Summer 2025</em><br>
-    Developed a Graph Neural Network-based framework for power allocation in multi-cell MIMO systems for 6G networks. Implemented a Graph Convolutional Network (GCN) model and benchmarked its performance against the WMMSE algorithm using both supervised and unsupervised learning approaches. Evaluated models based on output data rate distributions.
+    <em>Research Intern</em><br>
+    Designed a Graph Attention Network (GAT) for downlink power allocation in multi-cell Massive MIMO systems under spatially correlated Rician fading, targeting maximization of sum-rate while mitigating intra-cell interference. Benchmarked the model against the WMMSE baseline across supervised, unsupervised, and hybrid training paradigms.
   </div>
 </div>
 
@@ -65,7 +75,7 @@ Before Michigan, I completed my undergraduate studies at the **Indian Institute 
 
 ## Other Interests
 
-- ♟️ **Chess:** 2× U-14 SGFI National Champion, FIDE Rating 2046. You can follow me on <a href="https://www.chess.com/member/neuergiveup" target="_blank">Chess.com</a>. 
+- ♟️ **Chess:** 2× U-14 SGFI National Champion, FIDE Rating 2046. You can follow me on <a href="https://www.chess.com/member/neuergiveup" target="_blank">Chess.com</a>. I currently play for the UMich chess team.
 - 🏞️ **Trekking:** Completed 5+ high-altitude treks in the Himalayas (3500m+).
 
 ---
