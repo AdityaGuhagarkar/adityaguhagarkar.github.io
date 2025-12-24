@@ -45,7 +45,7 @@ Before Michigan, I completed my undergraduate studies at the **Indian Institute 
   <img src="/images/umich.jpeg" style="width: 60px; margin-right: 15px;">
   <div>
     <strong>University of Michigan</strong><br>
-    <em>Research Assistant</em><br>
+    <em>Research Assistant, under Prof. Lei Ying</em><br>
     Built a streaming RL framework in Jelly Bean World to evaluate continuous decision-making, demonstrating improved stability and performance over multiple DQN variants. Implemented a contrastive RL approach that augments RRT-based planning, enabling robust trajectory generation for high-DOF robots.
   </div>
 </div>
@@ -54,7 +54,7 @@ Before Michigan, I completed my undergraduate studies at the **Indian Institute 
   <img src="/images/oulu.jpeg" style="width: 60px; margin-right: 15px;">
   <div>
     <strong>6G Flagship | University of Oulu, Finland</strong><br>
-    <em>Research Intern</em><br>
+    <em>Research Intern, under Prof. Nandana Rajatheva</em><br>
     Designed a Graph Attention Network (GAT) for downlink power allocation in multi-cell Massive MIMO systems under spatially correlated Rician fading, targeting maximization of sum-rate while mitigating intra-cell interference. Benchmarked the model against the WMMSE baseline across supervised, unsupervised, and hybrid training paradigms.
   </div>
 </div>
@@ -63,7 +63,7 @@ Before Michigan, I completed my undergraduate studies at the **Indian Institute 
   <img src="/images/ubcvan.jpeg" style="width: 60px; margin-right: 15px;">
   <div>
     <strong>University of British Columbia (UBC)</strong><br>
-    <em>Research Intern – Summer 2023</em><br>
+    <em>Research Intern, under Prof. David Michelson – Summer 2023</em><br>
     Designed a channel sounder and Doppler shifter using ADALM-PLUTO SDRs to measure channel impulse response, path loss, and Doppler shifts for satellite and wireless communication. Executed LTE-based signal processing and real-time Doppler correction in MATLAB, achieving near 100% BER reduction through dynamic feedback-based distortion mitigation.
   </div>
 </div>
