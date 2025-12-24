@@ -1,0 +1,7 @@
+---
+title: "<a href='https://github.com/AdityaGuhagarkar/' target='_blank'><i class='fab fa-github'></i> MFCC Audio Feature Extraction Accelerator </a>"
+excerpt: ' Designed a fixed-point DSP hardware accelerator for MFCC extraction, implementing pre-emphasis, framing/windowing, 512-point FFT, Mel filterbanks, log scaling, DCT, and liftering in Verilog. Achieved <1% numerical error vs. MATLAB reference with ∼7.7µs latency per frame, enabling real-time speech processing for low-power IoT devices.<br/><img src="/images/mfcc.png" style="width:100%;">'
+collection: portfolio
+date: 2025-12-01
+venue: "Course Project, ECE 598: VLSI for ML and Comms"
+---
