@@ -22,7 +22,7 @@ Before Michigan, I completed my undergraduate studies at the **Indian Institute 
   <div>
     <strong>University of Michigan</strong><br>
     <em>Aug 2025 – May 2027</em><br>
-    <b>CGPA:</b> 4.09 / 4.00<br>
+    <b>CGPA:</b> 4.00 / 4.00<br> (Weighted: 4.13/4.30)
     M.S. in Electrical and Computer Engineering
   </div>
 </div>
